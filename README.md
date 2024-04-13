@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinnisterly&label=Profile%20views&color=b40e0e&style=flat" alt="sinnisterly" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinnisterly" alt="sinnisterly" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinnisterly&column=3&margin-w=15&margin-h=15&no-frame=true&theme=onedark" alt="sinnisterly" /></a> </p>
 </p>
 
 <h3 align="center">Languages and Tools I am Learning/Use:</h3>
