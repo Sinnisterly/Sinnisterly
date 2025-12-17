@@ -17,5 +17,5 @@
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinnisterly&show_icons=true&theme=dark&text_color=c7c7c7&locale=en" alt="sinnisterly" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sinnisterly&" alt="Sinnisterly" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sinnisterly" alt="Sinnisterly" /></p>
 
