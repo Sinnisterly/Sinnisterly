@@ -17,5 +17,5 @@
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinnisterly&show_icons=true&theme=dark&text_color=c7c7c7&locale=en" alt="sinnisterly" /></p>
 </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sinnisterly&theme=dark)](https://git.io/streak-stats)
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sinnisterly&theme=dark&hide_total_contributions=true" alt="GitHub Streak" /></a></p>
 
